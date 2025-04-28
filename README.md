@@ -76,7 +76,7 @@ Let's make global communication better together! 🌟
 
 1. Clone the repo:
 ```bash
-git clone git@github.com:arre-ankit/speechsync-ai.git
+git clone https://github.com/Cosmos-SpaceTime/accent-trainer.git
 ```
 
 2. Set up the Next.js app:
